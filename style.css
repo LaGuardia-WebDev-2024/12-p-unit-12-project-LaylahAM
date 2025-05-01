@@ -12,3 +12,16 @@ img{
 h1 {
   font-family: "Poetsen One", sans-serif;
 }
+
+.declaration {
+  font: italic 20px fantasy;
+}
+body {
+  text-align: center;
+  margin: auto;
+   font-family: "Poetsen One", serif;
+  background-color: black;
+  text-align: center;
+  color: rgb(188,890,200);
+  margin: auto;
+  
